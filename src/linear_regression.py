@@ -56,4 +56,3 @@ def predict(X, w, b):
     
     return y_pred
     
-        

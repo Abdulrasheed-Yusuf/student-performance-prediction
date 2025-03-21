@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Performance Prediction  
 
 ## 📌 Project Overview  
@@ -54,24 +53,3 @@ Trained **Linear Regression** models with:
    ```bash
    git clone https://github.com/Abdulrasheed-Yusuf/student-performance-prediction.git
    cd student-performance-prediction
-=======
-# Student Performance Prediction
-
-This project aims to predict students' final exam scores based on various factors using regression models.
-
-## Project Structure
-
-- `data/` : Contains raw and processed datasets.
-- `notebooks/` : Jupyter notebooks for EDA and model training.
-- `src/` : Python scripts for preprocessing and modeling.
-- `results/` : Stores model outputs and visualizations.
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Abdulrasheed-Yusuf/student-performance-prediction.git
-cd student-performance-prediction
-```
->>>>>>> b3fcc5a (Initial project commit with model training and results)
