@@ -1,0 +1,11 @@
+SGDRegressor with Elastic Net (All Features & Regularization)
+Train MSE: 0.1494, Train RMSE: 0.3865
+Test MSE: 0.2083, Test RMSE: 0.4564
+
+SGDRegressor with Subset of Features (Default Settings)
+Train MSE: 0.1654, Train RMSE: 0.4067
+Test MSE: 0.22, Test RMSE: 0.4691
+
+Custom Gradient Descent (Subset of Features, No Regularization)
+Train MSE: 0.1776, Train RMSE: 0.4214
+Test MSE: 0.2393, Test RMSE: 0.4892

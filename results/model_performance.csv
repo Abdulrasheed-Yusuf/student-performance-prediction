@@ -1,0 +1,4 @@
+Model,Train MSE,Train RMSE,Test MSE,Test RMSE
+SGDRegressor (All Features & Regularization),0.1494,0.3865,0.2083,0.4564
+SGDRegressor (Subset of Features),0.1654,0.4067,0.22,0.4691
+"Custom Gradient Descent (Subset, No Regularization)",0.1776,0.4214,0.2393,0.4892
