@@ -29,7 +29,7 @@ The target variable is **G3 (Final Grade)**.
 ---
 
 ## ⚙️ Model Training & Evaluation  
-We trained **SGDRegressor** models with:  
+Trained **Linear Regression** models with:  
 1. **Subset of Features (Default SGDRegressor)**  
 2. **Custom Gradient Descent Implementation**  
 3. **All Features with Elastic Net Regularization** (Final Model)  
@@ -51,5 +51,5 @@ We trained **SGDRegressor** models with:
 ## 🔧 How to Run  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
+   git clone https://github.com/Abdulrasheed-Yusuf/student-performance-prediction.git
    cd student-performance-prediction
